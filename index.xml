@@ -6,9 +6,18 @@
     <description>Recent content on Under construction...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 03 Dec 2022 15:20:49 +0900</lastBuildDate><atom:link href="http://rmf22.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Dec 2022 17:58:18 +0900</lastBuildDate><atom:link href="http://rmf22.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Uder construction...</title>
+      <title>Second</title>
+      <link>http://rmf22.github.io/posts/second/</link>
+      <pubDate>Sat, 03 Dec 2022 17:58:18 +0900</pubDate>
+      
+      <guid>http://rmf22.github.io/posts/second/</guid>
+      <description>Under construction, too&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>First</title>
       <link>http://rmf22.github.io/posts/first/</link>
       <pubDate>Sat, 03 Dec 2022 15:20:49 +0900</pubDate>
       
