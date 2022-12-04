@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives on Under construction...</title>
+    <link>http://rmf22.github.io/archive/</link>
+    <description>Recent content in Archives on Under construction...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 04 Dec 2022 16:16:43 +0900</lastBuildDate><atom:link href="http://rmf22.github.io/archive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro</title>
+      <link>http://rmf22.github.io/archive/intro/</link>
+      <pubDate>Sun, 04 Dec 2022 16:16:43 +0900</pubDate>
+      
+      <guid>http://rmf22.github.io/archive/intro/</guid>
+      <description>Research Institute for Mathematical Science, Kyoto University</description>
+    </item>
+    
+  </channel>
+</rss>
